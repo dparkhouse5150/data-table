@@ -1,0 +1,24 @@
+{
+  "name": "data-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dparkhouse5150/data-table.git"
+  },
+  "author": "darrell parkhouse",
+  "email": "parkhousedarrell71@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dparkhouse5150/data-table/issues"
+  },
+  "homepage": "https://github.com/dparkhouse5150/data-table#readme",
+  "dependencies": {
+    "datatables.net": "^1.11.3",
+    "jquery": "^3.6.0"
+  }
+}
